@@ -1,18 +1,7 @@
- 6a Hola Oscar, Te acuerdas de mi
-  b Pues no, creo que no me conozco de nada
-  c Si, hombre,me nos conocimos en el viaje a portugal el verano pasada
-
-7a has comprado ya el periodico
- b no voy a comprar lo ahora
-
-8a sabes que paula ha alquilado una nueva casa
- b Si me vi el otro dia y me la conto
-
-9a Mama, me quieres mucho
- b/ Si, carino, te quiero mas que a nada en el mundo
- 
-10a quien ha puesto las gafas ahi
-    las puesto yo, pero en seguida las guardo
-
-11a sabes que lucia esta en el hospital
-  b no, no me sabia, quien te la ha dicho
+3)  Si,ya le lo he correo
+4) si, ya se la has dado
+5) Si, ya se los comprado
+6) Si, ya se  le llevado
+8) Si, ya se la pagado
+9) Si, ya se le  dado
+10) Si, ya se las llevado
